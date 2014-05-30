@@ -4,7 +4,7 @@ namespace Obo;
 
 class ForeseenErrorPanel {
 
-    public static function foreseenErrorPanel ($e) {
+    public static function addPanel($e) {
         if($e instanceof \obo\Exceptions\Exception && !is_null($e->foreseenFileError) && !is_null($e->foreseenLineError)) {
             return array(
                 "tab" =>"Foreseen Error",
