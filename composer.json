@@ -1,0 +1,26 @@
+{
+    "name": "obo/utils",
+    "type": "library",
+    "description": "",
+    "keywords": ["framework", "domain logic", "orm", "database"],
+    "homepage": "http://obophp.org",
+    "license": ["Apache-2.0"],
+    "authors": [
+        {
+            "name": "Adam Šuba",
+            "homepage": "http://adamsuba.cz"
+        },
+        {
+            "name": "Roman Pavlík",
+            "email": "ZZromanZZ@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [""]
+    },
+    "require": {
+        "php": ">=5.3.1",
+        "obo/obo": "dev-master",
+        "tracy/tracy": "2.2.1"
+    }
+}
