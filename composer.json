@@ -21,6 +21,6 @@
     "require": {
         "php": ">=5.3.1",
         "obo/obo": "dev-master",
-        "tracy/tracy": "2.2.1"
+        "tracy/tracy": "~2.2"
     }
 }
