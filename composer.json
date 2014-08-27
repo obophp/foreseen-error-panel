@@ -1,7 +1,7 @@
 {
-    "name": "obo/utils",
+    "name": "obo/foreseenErrorPanel",
     "type": "library",
-    "description": "",
+    "description": "Foreseen error panel for Tracy",
     "keywords": ["framework", "domain logic", "orm", "database"],
     "homepage": "http://obophp.org",
     "license": ["Apache-2.0"],
