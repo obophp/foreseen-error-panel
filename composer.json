@@ -1,5 +1,5 @@
 {
-    "name": "obo/foreseenErrorPanel",
+    "name": "obo/foreseen-error-panel",
     "type": "library",
     "description": "Foreseen error panel for Tracy",
     "keywords": ["framework", "domain logic", "orm", "database"],
