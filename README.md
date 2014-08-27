@@ -1,4 +1,4 @@
-utils
+ForeseenErrorPanel
 =====
 
-Various utils for Obo
+Foreseen error panel for Obo to Tracy
