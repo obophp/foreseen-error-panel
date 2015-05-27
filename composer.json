@@ -20,7 +20,7 @@
     },
     "require": {
         "php": ">=5.3.1",
-        "obo/obo": "dev-master",
+        "obo/obo": ">=0.8.0",
         "tracy/tracy": "~2.2"
     }
 }
